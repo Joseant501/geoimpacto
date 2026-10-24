@@ -1,0 +1,49 @@
+XILON'S EARTH DOCS · 001 HUMAN FRONTIERS · CLIPS
+Regla: un clip o imagen por caso real, con crédito. Nada de políticos ni banderas en conflicto.
+Solo hay enlace directo donde está comprobado. El resto queda como búsqueda: comprueba la licencia antes de usarlo.
+Las escenas que no son reales (planeta de Xilon, nave, sandía, cuna con mapa, mesa de jamones) → ComfyUI.
+
+GOLF TORNIO (hoyo 6)
+- Fotos de prensa del campo → Green Zone Golf: https://greenzonegolf.com/ · banco de imágenes de Visit Sweden (prensa): https://press.visitsweden.com
+- Búsqueda: "Green Zone Golf hole 6 border" (YouTube / Wikimedia Commons)
+
+TIROLINA GUADIANA
+- Material de la empresa → LimiteZero: https://limitezero.com (pedir permiso o usar fotos de prensa)
+- Búsqueda: "tirolina transfronteriza Sanlúcar Alcoutim"
+
+MAPAS ANTIGUOS / TORDESILLAS
+- Mapas de dominio público → Wikimedia Commons, búsqueda "Tordesillas line map", "medieval map" (dominio público por antigüedad)
+
+BAARLE
+- Puerta con dos números (Loveren) → "House Shared By Two Countries", Jack Soley, CC BY-SA 3.0, Wikimedia Commons: https://commons.wikimedia.org/wiki/File:House_Shared_By_Two_Countries.jpg
+- Cruces en la calle y placas B/NL → Wikimedia Commons, búsqueda "Baarle border"
+- Tienda partida 2020 → reportajes de VRT / Omroep Brabant (marzo 2020); solo con permiso. Si no, recrear en ComfyUI sin logos
+- Casa del Chaamseweg 10 (reja de la puerta antigua) → fotos en la ficha de Atlas Obscura (comprobar autor y licencia): https://assets.atlasobscura.com/places/voordeurwissel
+
+HOTEL ARBEZ
+- Fotos de la raya en el comedor y en la cama → Jan S. Krogh's Geosite (pedir permiso): https://geosite.jankrogh.com/borders/chfr/La_Cure/hotel_arbez.html · Wikimedia Commons, búsqueda "Hotel Arbez"
+
+BÜSINGEN
+- Cartel del pueblo y Rin → Wikimedia Commons, búsqueda "Büsingen am Hochrhein"
+- Partido del FC Büsingen → búsqueda "FC Büsingen"; si no hay material libre, recrear de forma genérica
+
+LLÍVIA
+- Vista de la villa entre campos franceses → Wikimedia Commons, búsqueda "Llívia"
+
+GLACIAR / REFUGIO GUIDE DEL CERVINO
+- Fotos del refugio → Wikimedia Commons, búsqueda "Rifugio Guide del Cervino" · foto AFP (Fabrice Coffrini) solo con licencia
+
+ANDORRA
+- Valle → Wikimedia Commons, búsqueda "Andorra valley"
+- Jamones, quesos y gallinas → ComfyUI o stock
+
+SAN MARTÍN
+- Monumento de la frontera → Wikimedia Commons, búsqueda "Saint Martin border monument"
+
+ISLA HANS
+- Isla con bandera → Wikimedia Commons, foto de Toubletap, CC BY-SA 3.0 (búsqueda "Hans Island")
+- Firma de 2022 con intercambio de botellas → fotos de AP/CBC solo con licencia; si no, recreación
+
+MOJÓN 262 / TRES VACAS
+- Piedra de San Martín y ceremonia → Wikimedia Commons, búsqueda "Tributo de las Tres Vacas" / "Piedra de San Martín"
+- Vídeo de la ceremonia → reportajes de Navarra Televisión / EITB (pedir permiso)

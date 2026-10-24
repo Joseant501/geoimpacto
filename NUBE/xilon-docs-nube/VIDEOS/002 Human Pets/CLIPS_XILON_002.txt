@@ -1,0 +1,49 @@
+XILON'S EARTH DOCS · 002 HUMAN PETS · CLIPS POR CASO · 24/10/2026
+Base: Getty/Pictory presentado como "imágenes de vigilancia" de la nave, a color con filtro analógico.
+Cada clip real se comprueba con licencia y crédito antes de usarlo. Nada de mapas sin tratar.
+Leyenda: [STOCK] = buscar en Getty/Pictory · [ARCHIVO] = material histórico; comprobar dominio público o licencia · [GENERAR] = ComfyUI/Veo · [PEDIR] = pedir permiso al titular
+
+GANCHO
+- [STOCK] dog walking ahead on leash, owner behind · owner picking up dog poop with bag, close-up hand
+- [GENERAR] silueta de gato en ventana de despacho oficial (sin edificio real reconocible)
+
+HILO 1
+- [GENERAR] campamento de la Edad de Piedra de noche, con fuego y pieles · manos dando agua a un cachorro enfermo
+- [GENERAR / ARCHIVO] ilustración de la tumba de Bonn-Oberkassel. Las fotos de los restos son del LVR-LandesMuseum Bonn → [PEDIR] si se quiere la foto real
+- [STOCK] mice in grain sacks · cat hunting mouse in barn
+- [GENERAR] tumba neolítica de Chipre con gato (reconstrucción, sin foto real) · invitado a cenar que envejece rodeado de gatos (gag)
+- [STOCK] cat walking away ignoring owner
+
+PSICOLOGÍA
+- [STOCK] dog puppy eyes close-up · dog and owner eye contact sofa · dog head tilt · dog sniffing jar/gauze · kitten meowing at mother cat · cat meowing at owner kitchen · cat kneading blanket on lap · owner calling cat, cat ignoring
+- [GENERAR] escaneo HUD verde sobre una cabeza de perro · dos móviles cara a cara cargándose · notas HUD en la consola de Xilon (la segunda con check)
+- [GENERAR] Xilon intentando subir una ceja que no tiene (REACCIÓN 1)
+
+MASCOTA PIEDRA
+- [ARCHIVO] anuncios y cajas originales de Pet Rock (1975). Las marcas pueden seguir protegidas → mejor [GENERAR] una caja de cartón genérica con agujeros y paja, sin logo
+- [STOCK] stony beach Mexico
+- [GENERAR] mano de Xilon dejando a Pedro/Peter en la consola (Pedro tiene que ser siempre la MISMA piedra: fijar la referencia)
+
+DINERO
+- [STOCK] German town hall exterior · dog tax tag on collar (Hundemarke) · cat sleeping on windowsill
+- [STOCK] German shepherd on yacht / luxury · old documents, bank facade. No usar imágenes del documental de Netflix sin licencia
+
+TAMA
+- [ARCHIVO/PEDIR] Wakayama Electric Railway (fotos de Tama; pedir permiso a la compañía) · [STOCK] rural Japanese train station, calico cat · Kishi station / Tama shrine si hay stock
+- [GENERAR] gata calicó con gorro de jefa de estación (alternativa si no hay licencia)
+
+HÉROES
+- [ARCHIVO] fotos de Hachikō de los años 30. Fotos japonesas anteriores a 1946 suelen ser de dominio público en Japón → comprobar cada una · [STOCK] Shibuya Hachikō statue · University of Tokyo statue (2015)
+- [GENERAR] dos carteles de película genéricos (uno japonés y uno estadounidense) SIN títulos ni caras reales legibles
+- [ARCHIVO] carrera del suero de 1925 (Seppala, Togo, Balto): fotos de época, muchas en archivos públicos de EE. UU. / Wikimedia → comprobar licencia
+- [STOCK] sled dog team blizzard · husky on sea ice · husky resting in snow
+- [ARCHIVO] Barry: foto del ejemplar disecado en el Museo de Historia Natural de Berna → [PEDIR] · [STOCK] Saint Bernard snow Alps
+- [STOCK] police dog · rescue dog rubble · guide dog with blind person crossing street
+
+LARRY
+- [STOCK] Downing Street door / Larry the cat (Getty tiene mucho material editorial; comprobar licencia editorial) · cat sleeping on antique chair
+
+CIERRE
+- [GENERAR] Xilon en plano fijo, sereno y emocionado, con Pedro/Peter en la consola
+
+Xilon a cámara: intro ("Sapiens llama perro a canino…"), reacción 1 (la ceja), reacción 2 (Hachikō, abrazando a Pedro) y cierre.
